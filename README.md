@@ -2,6 +2,7 @@
 
 - **Academic:** [jingxuad@andrew.cmu.edu](mailto:jingxuad@andrew.cmu.edu)
 - **Personal:** [shureduan0912@gmail.com](mailto:shureduan0912@gmail.com)
+- **LinkedIn:** [jingxuan-duan](https://www.linkedin.com/in/jingxuan-duan-7050303b0/)
 
 ## Pinned repositories
 
