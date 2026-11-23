@@ -9,7 +9,7 @@
 **[TGIF: Multimodal Temporal Segmentation](https://github.com/shureduan/TGIF-Multimodal-Temporal-Segmentation)**
 Multimodal (video + vibration) temporal action segmentation, where Dynamic Window Attention adapts the sensor window to the predicted action segment, sharpening attention-based fusion and improving segmentation accuracy.
 
-**[Anchor + Delta: Do Robot Policies Need to See Every Frame?](https://shureduan.github.io/Anchor_Delta/)** · [code](https://github.com/shureduan/Anchor_Delta) · *ongoing*
+**[Task-Aware Anchor-Delta Representations for Robot Learning](https://shureduan.github.io/Anchor_Delta/)** · [code](https://github.com/shureduan/Anchor_Delta) · *ongoing*
 A wrist-camera manipulation policy that encodes the image only at sparse anchors and, in between, uses the hand's motion since the anchor from forward kinematics. Trained only in simulation and deployed zero-shot on a Kinova Gen3, it completes the same pick-and-place as dense per-frame encoding with ~5% of the image encodes, 5.6× less policy compute per step and 18× less stored visual data.
 
 **[Autonomous Delivery Robot System](https://github.com/shureduan/Autonomous_Delivery_Robot_System)**
